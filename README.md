@@ -21,3 +21,6 @@ Give some consideration to the following:
 
 * Potential future requirement to expose APIs via transports other than REST (e.g. GraphQL/GRPC)
 
+### Documentation:
+
+Please record any assumptions you've made or reasons behind any decisions you believe we should know in this README.md.
