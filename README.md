@@ -14,3 +14,10 @@ Your solution should be uploaded to Github and the github URL submitted for revi
 This coding challenge is designed to take around **1 hour** to complete with the assumption the developer is familiar with Java, Maven, Spring Framework, and the Cucumber Test Framework.
 
 However There is no time limit to complete the challenge and you may choose to use Kotlin or Gradle as alternatives to Java and Maven.
+
+### Considerations:
+
+Give some consideration to the following:
+
+* Potential future requirement to expose APIs via transports other than REST (e.g. GraphQL/GRPC)
+
